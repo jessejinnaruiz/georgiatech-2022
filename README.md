@@ -6,10 +6,12 @@
 
 ### Coursework
 
-<p>✅ ISYE 6501 Introduction to Analytics Modeling, Fall 2022</p>
+<p>✅ ISYE 6501 Introduction to Analytics Modeling, Fall 2022</p> 
 
-<p>✅ CSE 6040 Computing for Data Analysis - Methods and Tools, Spring 2023</p>
+<p>✅ CSE 6040 Computing for Data Analysis - Methods and Tools, Spring 2023 
+<li>Syllabus: https://hackmd.io/@richie/HJqL0O7cs</li></p>
 
-<p>🗌 CSE 6242 Data and Visual Analytics, Spring 2024</p>
+<p>🗌 CSE 6242 Data and Visual Analytics, Spring 2024
+<li>Syllabus: https://poloclub.github.io/cse6242-2024spring-online/</li></p>
 
 <p></p>
